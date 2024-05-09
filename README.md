@@ -11,4 +11,5 @@ Hasil persamaan di array b
 !!! POSISI ANGKA BERPENGARUH, HARUS SECARA BERURUTAN !!!
 
 Ada sedikit galat di metode Inverse Matrix, Ambil nilai terdekat untuk dengan metode lain
+
 Tested in IntelliJ IDEA 2022.3.2 (Community Edition)
